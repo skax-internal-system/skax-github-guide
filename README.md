@@ -4,12 +4,13 @@
 
 ## 현재 임시 깃허브 신청링크는 아래와 같습니다.
 
-[http://20.41.113.85:8080/git-manager/](http://20.41.113.85:8080/git-manager/)
+[http://skaxgit.koreacentral.cloudapp.azure.com:8080/git-manager/](http://skaxgit.koreacentral.cloudapp.azure.com:8080/git-manager/)
+
 
 * 위 링크는 임시용으로 사내 로컬망에서만 접속 가능합니다. 접속이 불가능한 분만 기존과 같이 기존 Forms 이용 바랍니다.
   * ``` Forms 링크는 VDI 내부 https://aihow.skax.co.kr 공지사항에 올라와 있습니다. ```
 * 단, 계정을 신청하려면 다음 깃허브 프로파일 표준을 준수해야 합니다.
-  * [사내용 깃허브 계정 표준](https://github.com/skccmygit/skax-github-guide/blob/main/ghec-profile-guide.pdf)
+  * [사내용 깃허브 계정 표준](https://github.com/skax-internal-system/skax-github-guide/blob/main/ghec-profile-guide.pdf)
    
    
 ## 깃허브 사용 주의사항
