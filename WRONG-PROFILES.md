@@ -3,7 +3,7 @@
 **아래 사용자들은 개인 프로필에 public email이 설정되어 있지 않거나, 표시 Name이 없는 사용자입니다.**
 - 3/7까지 개인 프로필 업데이트 하시기 바랍니다.
 - 기한내 프로필이 업데이트되지 않을 경우 깃허브 멤버십 삭제 예정입니다.
-> 📮 [ 깃허브계정표준 ](https://github.com/skccmygit/skax-github-guide/blob/main/ghec-profile-guide.pdf)
+> 📮 [ 깃허브계정표준 ](https://github.com/skax-internal-system/skax-github-guide/blob/main/ghec-profile-guide.pdf)
 
 |	username	|	프로파일 링크	|	사용자 이름	|
 |	-----------	|	-----------	|	-----------	|
