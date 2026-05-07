@@ -4,7 +4,9 @@
 
 ## 현재 임시 깃허브 신청링크는 아래와 같습니다.
 
-[http://skaxgit.koreacentral.cloudapp.azure.com:8080/git-manager/](http://skaxgit.koreacentral.cloudapp.azure.com:8080/git-manager/)
+정식링크 : [http://skaxgit.koreacentral.cloudapp.azure.com:8080/git-manager/](http://skaxgit.koreacentral.cloudapp.azure.com:8080/git-manager/)
+
+단축링크 : https://url.kr/ao9aq8 
 
 
 * 위 링크는 임시용으로 사내 로컬망에서만 접속 가능합니다. 접속이 불가능한 분만 기존과 같이 기존 Forms 이용 바랍니다.
